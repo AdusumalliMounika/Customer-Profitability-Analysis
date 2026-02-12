@@ -1,8 +1,7 @@
 Customer Profitability Analysis
-Project Overview
-      This project focuses on analyzing customer-level profitability to identify why some customers generate high sales but still result in losses.
-The analysis highlights the impact of heavy discounting on profit and helps businesses decide which customers need review or restriction.
 
+Project Overview
+     This project analyzes customer-level profitability tp identify why high-sales customers still generate losses due to excessive discounting.
 Objective
 -Identify total number of customers
 -Find profitable vs loss-making customers
